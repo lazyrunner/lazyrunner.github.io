@@ -44,8 +44,14 @@ h6 {
 .img-centered {
   margin: 0 auto;
 }
+.magrin-top-45px {
+  margin-top: 45px;
+}
 .bg-light-gray {
   background-color: #f7f7f7;
+}
+.bg-black {
+  background-color: #000;
 }
 .bg-darkest-gray {
   background-color: #222;
